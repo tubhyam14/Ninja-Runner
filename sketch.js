@@ -104,9 +104,9 @@ function preload() {
       jumpSound.play();
     }
 
-    if(touches.length > 0 && ninja.y  >= height-120) {
+    if(touches.length > 0 && ninja.y  >= height-290) {
       jumpSound.play()
-      ninja.velocityY = -5;
+      ninja.velocityY = -10;
        touches = [];
     }
 
