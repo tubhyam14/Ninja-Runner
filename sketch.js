@@ -1,5 +1,5 @@
 // story: You will be playing as a ninja who is assined on a mission to collect scroll 
-//you have to collect scroll and beware of shruken which enemy has planted
+//you have to collect scroll and beware of shruken which enemy has Planted
 
 var PLAY= 1 ;
 var END= 0 ;
