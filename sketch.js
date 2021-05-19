@@ -99,10 +99,10 @@ function preload() {
       checkPointSound.play()
     }*/
 
-  if ((keyDown("space")  && ninja.y >= 290)) {
+  /*if ((keyDown("space")  && ninja.y >= 290)) {
         ninja.velocityY = -10;
       jumpSound.play();
-    }
+    }*/
 
     if(touches.length > 0 && ninja.y  >= height-290) {
       jumpSound.play()
